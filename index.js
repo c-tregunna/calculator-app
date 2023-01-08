@@ -12,11 +12,11 @@ function calcTotal(number) {
 
 //what math will happen
 function math(symbol) {
-    showTotal.textContent = symbol;
-    if(symbol === '+') {
-        total + total;
-    }
-    console.log(total);
+    console.log(symbol);
+    // showTotal.textContent = symbol;
+    // if(symbol === '+') {
+    //     total + total;
+    // }
 }
 
 //reset to 0
